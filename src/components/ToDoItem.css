@@ -1,0 +1,11 @@
+.main {
+  display: flex;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+.standard {
+  text-decoration: none;
+}
